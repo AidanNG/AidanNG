@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, My name is Aidan Gow and I am a Software Engineer from Dallas, TX.
+### I recently graduated with my master's degree from UTD and am looking for jobs or cool projects to be a part of.
 
 <!--
 **AidanNG/AidanNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
